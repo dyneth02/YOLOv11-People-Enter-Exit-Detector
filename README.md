@@ -1,5 +1,4 @@
-# AI-Powered People Counting & Foot-Traffic Analytics
-===================================================
+# 🎥 AI-Powered People Counting & Foot-Traffic Analytics
 
 An advanced Computer Vision system that performs real-time detection, tracking, and bidirectional counting of individuals in a monitored space. This project utilizes **YOLOv11** for high-precision detection and **Polygon ROI (Region of Interest)** logic to determine entry and exit events.
 
@@ -94,5 +93,6 @@ The system generates an `output_people_count.mp4` file containing:
 -   Real-time counters for **Entered**, **Exited**, and **Current** occupancy.
 -   Unique Tracking IDs for every detected individual.
 -   Visual boundaries (Pink polygons) showing the active detection zones.
+
 
 
