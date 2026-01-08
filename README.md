@@ -5,7 +5,9 @@ An advanced Computer Vision system that performs real-time detection, tracking, 
 
 ---
 
-![output]("https://github.com/dyneth02/YOLOv11-People-Enter-Exit-Detector/blob/main/project_output-optimize.gif")
+<p align="center">
+  <img src="assets/project_output-optimize.gif" alt="YOLOv11 People Detector Output" width="800">
+</p>
 
 ---
 
@@ -92,4 +94,5 @@ The system generates an `output_people_count.mp4` file containing:
 -   Real-time counters for **Entered**, **Exited**, and **Current** occupancy.
 -   Unique Tracking IDs for every detected individual.
 -   Visual boundaries (Pink polygons) showing the active detection zones.
+
 
