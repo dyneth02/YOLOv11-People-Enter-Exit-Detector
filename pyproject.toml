@@ -1,0 +1,11 @@
+[project]
+name = "yolo11-people-exit-enter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cvzone>=1.6.1",
+    "opencv-python>=4.12.0.88",
+    "ultralytics>=8.3.249",
+]
